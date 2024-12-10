@@ -1,0 +1,33 @@
+Detect Professional Malicious User with Metric Learning in Recommender Systems
+
+IEEE Transactions on Knowledge and Data Engineering,Volume:34,Issue:9,Issue Date:01.September.2022
+
+professional malicious users, unsupervised learning, metric learning, recommender system
+
+
+
+Detect_Professional_Malicious_User
+
+
+
+detect_professional_malicious_user
+
+
+
+malacious_user
+
+Gender
+Age
+title
+title_orig
+units_sold
+rating
+tags
+product_color
+countries_shipped_to
+product_url
+product_id
+Prediction
+
+
+varchar(3000) NOT NULL,
